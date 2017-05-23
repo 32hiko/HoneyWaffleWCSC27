@@ -91,3 +91,7 @@ waffle_wrapper.db
 コメント通りですが、相手より時間があり相手が残り1分を切ったら5秒未満で指します。（やねうら王のマージン2種を含む）
 
 また、相手より3分以上も時間を使っている場合、10秒未満で指します。
+
+## HoneyWaffle視点だけの感想
+
+https://shiroigohanp.tumblr.com/post/160615174194/wcsc27-honeywaffle%E8%A6%96%E7%82%B9%E3%81%AE%E6%84%9F%E6%83%B3
